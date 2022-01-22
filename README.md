@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Wolololf
-- 👀 I’m interested in game development, data science, ancient history and linguistics.
-- 🌱 I’m currently learning data science/engineering with python/AWS.
+- 👀 I’m interested in game development, data science, machine learning, ancient history and linguistics.
+- 🌱 I’m currently learning machine learning using PyTorch/FastAI.
 - 💞️ I’m looking to collaborate on digital humanities projects, in particular digital history.
 - 📫 How to reach me: Via email at wolfgang.neumayer91@gmail.com
 
